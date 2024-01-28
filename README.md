@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Janiodif
+- 👀 I’m interested in codding solutions.
+- 🌱 I’m currently learning how to be a better backend developer.
+- 💞️ I’m looking to collaborate on backends projects.
+- ⚡ Fun fact: Life is a mental simulation.
